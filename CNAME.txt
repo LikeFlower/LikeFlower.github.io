@@ -1,1 +1,0 @@
-waylib.win
